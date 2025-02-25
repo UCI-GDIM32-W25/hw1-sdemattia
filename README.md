@@ -48,6 +48,9 @@ The break-down completed in class acted as a sort of manual as to what the game 
 
 In conclusion, the break-down was very helpful for the coding part of the project but wasn't all that much help when it came to Unity. For me, I think I work best with a itemized list of what I need to do compared to a list of what the game needs to do. In the future I plan on continuing to use the break-downs but I think that I will personally need to go beyond that and create a to-do list for the Unity side of things.
 
+## Devlog Redo
+The break-down completed in class was not the most helpful for me personally but I did use it specifically for the actions that each GameObject needed to complete and how they were connected to each other. For example, I used the input section of the Player section and turned that into the Update() function in the Player script. This was helpful in that it was listed out simply and was easy to turn into code. In addition, seeing how different GameObjects were linked together visually was also helpful. In my PlantCountUI script I knew to make the "seeds remaining UI" and "seeds left UI" within it since it was all contained under the same section. Visually the break-down was very useful while coding but in a process and to-do sense, it added more confusion. Though it made the process a bit more muddled it did help with going over the final result, I went through each GameObject in Unity and made sure that it was properly assigned to the right script according to the break-down (eg. the _plantcountUI and _seedsRemainingUI were assigned to the correct TMP GameObjects).
+
 ## Open-Source Assets
 If you added any other outside assets, list them here!
 - [Sprout Lands sprite asset pack](https://cupnooble.itch.io/sprout-lands-asset-pack) - character and item sprites
